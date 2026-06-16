@@ -1,0 +1,66 @@
+[
+  {
+    "id": "src-001",
+    "topic": "tawakkul",
+    "title": "Reliance on Allah after taking action",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified ayah or hadith (with exact reference) on tying outward effort to inward reliance on Allah's decree. Do not publish this placeholder text as-is.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["tawakkul", "trust", "effort", "decree"]
+  },
+  {
+    "id": "src-002",
+    "topic": "nafs",
+    "title": "Accountability before the self makes excuses",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source on self-accountability (muhasabah) and the nafs's tendency to rationalize. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["nafs", "muhasabah", "accountability", "self"]
+  },
+  {
+    "id": "src-003",
+    "topic": "death",
+    "title": "Remembrance of death as a corrective to heedlessness",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source on the remembrance of death (dhikr al-mawt) and its role in correcting heedlessness. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["death", "heedlessness", "remembrance"]
+  },
+  {
+    "id": "src-004",
+    "topic": "salah",
+    "title": "Consistency in prayer over occasional intensity",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source on consistency (istiqamah) in salah being valued over sporadic bursts of devotion. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["salah", "istiqamah", "consistency"]
+  },
+  {
+    "id": "src-005",
+    "topic": "backbiting",
+    "title": "The severity of backbiting (ghibah) in speech",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source on the prohibition and severity of ghibah. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["backbiting", "ghibah", "speech"]
+  },
+  {
+    "id": "src-006",
+    "topic": "dunya",
+    "title": "The dunya as a means, not the destination",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source on holding worldly life (dunya) as a means toward the akhirah rather than an end in itself. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["dunya", "akhirah", "means", "end"]
+  },
+  {
+    "id": "src-007",
+    "topic": "tahajjud",
+    "title": "The night prayer as a station of closeness",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source on tahajjud / qiyam al-layl as a station of closeness to Allah. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["tahajjud", "qiyam", "night", "closeness"]
+  },
+  {
+    "id": "src-008",
+    "topic": "sabr",
+    "title": "Patience as an active discipline, not passivity",
+    "summary": "PLACEHOLDER ENTRY. Replace with a verified source distinguishing sabr (active patience and steadfastness) from mere passivity. Verify wording and reference before use.",
+    "reference": "REPLACE_WITH_VERIFIED_REFERENCE",
+    "tags": ["sabr", "patience", "steadfastness"]
+  }
+]
